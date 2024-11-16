@@ -1,9 +1,142 @@
-<html>
-    <head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Batido de Mango Chai</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background-color: #ffffff;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #ddd;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .navbar a {
+            color: #333;
+            text-decoration: none;
+            padding: 8px 15px;
+            font-weight: bold;
+        }
+        .navbar a:hover {
+            color: #d97706;
+        }
+        .active {
+            color: #d97706;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #d97706;
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #d97706;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .tips {
+            background-color: #f9f2e7;
+            padding: 15px;
+            border-left: 4px solid #d97706;
+            margin-top: 20px;
+            border-radius: 4px;
+        }
+        .sidebar {
+            float: left;
+            width: 250px;
+            margin-right: 20px;
+        }
+        .main-content {
+            overflow: hidden;
+        }
+        .profile-pic {
+            width: 100%;
+            border-radius: 50%;
+            margin-bottom: 15px;
+        }
+        .cta-button {
+            background-color: #d97706;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            display: block;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        .cta-button:hover {
+            background-color: #b96504;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#" class="active">Inicio</a>
+        <a href="#">Sobre mí</a>
+        <a href="#">Recetas</a>
+        <a href="#">Contacto</a>
+        <a href="#">Otras Cosas</a>
+    </div>
 
-    </head>
-    <body>
-        <h1>Receta de Mango Chai</h1>
-    </body>
+    <div class="container">
+        <div class="sidebar">
+            <img src="profile-pic.jpg" alt="Perfil" class="profile-pic">
+            <p>Hola, bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</p>
+            <img src="ebook.jpg" alt="eBook de recetas" style="width:100%; margin-bottom: 15px;">
+            <p>Y consigue GRATIS mi eBook con 10 recetas exclusivas con superalimentos.</p>
+            <a href="#" class="cta-button">Apúntame</a>
+        </div>
+        
+        <div class="main-content">
+            <h1>Batido de Mango Chai</h1>
+            <img src="receta-batido-mango-chai.jpg" alt="Batido de Mango Chai">
 
+            <h2>Ingredientes</h2>
+            <ul>
+                <li>150 ml de bebida vegetal</li>
+                <li>300 g de yogurt vegetal</li>
+                <li>1 mango maduro pequeño</li>
+                <li>Chai: canela, jengibre, pimienta negra, nuez moscada, cúrcuma y clavo al gusto</li>
+                <li>Copos de avena integral suave sin gluten</li>
+                <li>Dátiles para endulzar (opcionales)</li>
+            </ul>
+
+            <h2>Preparación</h2>
+            <p>Pelamos el mango y lo troceamos. Echamos en la batidora de vaso primero la bebida vegetal (en mi caso de avena) y el yogurt (en mi caso de avena pero puede ser de soja o con/sin lactosa si tomáis lácteos), añadimos el mango y batimos. Una vez conseguida una textura cremosa, añadimos las especias al gusto y volvemos a batir. Probamos para rectificar la intensidad de las especias o el dulzor. Adornamos con unos copos de avena (sin gluten en mi caso).</p>
+            <p>Si el mango está lo suficientemente maduro, no suele hacer falta añadir los dátiles. Ya depende de cómo os guste de dulce.</p>
+
+            <div class="tips">
+                <h2>Consejos:</h2>
+                <p>Os aconsejo beberlo bastante frío. Si os ha quedado un poco espeso para vuestro gusto, podéis añadir más bebida vegetal. Si queréis añadir los dátiles, os aconsejo ponerlos en remojo en agua durante al menos 1/2 a 1 hora. Si no os habéis acordado de hacerlo previamente, está el socorrido truco de ponerlos en un poco de agua caliente para que se hidraten más rápido.</p>
+            </div>
+        </div>
+    </div>
+</body>
 </html>
