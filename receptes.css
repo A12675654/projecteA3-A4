@@ -33,6 +33,16 @@ body {
     color: #7ABA96;
   }
 
+  .navbar {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
   header {
     background-color: #FFF;
     border-bottom: 1px solid #CCC;
