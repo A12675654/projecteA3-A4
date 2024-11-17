@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar a:hover {
+    color: #7ABA96;
+}
+.active {
+    color: #7ABA96;
+}
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #7ABA96;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+h2 {
+    color: #7ABA96;
+}
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+p {
+    line-height: 1.6;
+}
+.tips {
+    background-color: #e7f9f1;
+    padding: 15px;
+    border-left: 4px solid #7ABA96;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+
+.cute-list {
+    counter-reset: step-counter;
+    padding-left: 0;
+    list-style: none;
+    font-family: 'Georgia', serif;
+}
+
+.cute-list li {
+    counter-increment: step-counter;
+    background: #e4fff330;
+    border: 2px solid #e2fdf1;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+}
+
+.cute-list .step-number {
+    display: inline-block;
+    background: #7ABA96;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+
+
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    font-family: 'Georgia', serif;
+    font-size: 1.2rem;
+    color: #7ABA96;
+    font-weight: bold;
+    border: 2px solid #7ABA96;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: #e5fcf5da;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.back-link:hover {
+    background-color: #d1ffef;
+    color: #31d6af;
+    border-color: #31d6af;
+    text-decoration: underline;
+}
+
+.back-link:before {
+    content: "←";
+    margin-right: 5px;
+    font-size: 1.5rem;
+}
