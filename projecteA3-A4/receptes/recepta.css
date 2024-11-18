@@ -125,3 +125,45 @@ p {
     margin-right: 5px;
     font-size: 1.5rem;
 }
+
+
+.recipe-time {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    background: linear-gradient(135deg, #31d6af, #7ABA96);
+    color: #fff;
+    border-radius: 10px;
+    font-family: 'Arial', sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 20px auto;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .recipe-time:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .time-icon {
+    font-size: 2rem;
+  }
+  
+  .time-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .time-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  .time-duration {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  

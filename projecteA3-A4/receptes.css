@@ -162,3 +162,26 @@ body {
     margin-bottom: 10px; /* Espacio debajo de la imagen */
   }
   
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+.pagination button, .pagination a {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.pagination button:hover, .pagination a:hover {
+    background-color: #ddd;
+}
+.pagination button:disabled {
+    cursor: not-allowed;
+    background-color: #eee;
+}
