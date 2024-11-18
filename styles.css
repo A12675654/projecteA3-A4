@@ -204,3 +204,15 @@ footer .social-links a:hover {
   margin-top: 2%;
 
 }
+
+/*aside responsive*/
+@media (max-width: 767px) {
+  main {
+    flex-direction: column; /* Stack the layout vertically */
+  }
+
+  .sidebar {
+    order: 2; /* Ensure the sidebar appears below the main content */
+    padding-top: 10px; /* Optional: Adjust spacing for clarity */
+  }
+}
