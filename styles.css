@@ -208,11 +208,11 @@ footer .social-links a:hover {
 /*aside responsive*/
 @media (max-width: 767px) {
   main {
-    flex-direction: column; /* Stack the layout vertically */
+    flex-direction: column; 
   }
 
   .sidebar {
-    order: 2; /* Ensure the sidebar appears below the main content */
-    padding-top: 10px; /* Optional: Adjust spacing for clarity */
+    order: 2; 
+    padding-top: 10px; 
   }
 }
