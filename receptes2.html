@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Llistat de Receptes</title>
+  <link rel="stylesheet" href="receptes.css">
+</head>
+<body>
+  <header class="navbar">
+  <div class="logo">
+      <img src="imatges/Logo-Delicias.png" alt="Foto de perfil" width="200" height="75">
+  </div>
+  <hr style="border: 1px solid #CCC; width: 100%; margin: 1px auto;">
+  <nav>
+      <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="aboutMe.html">Sobre mí</a></li>
+          <li><a href="receptes.html" class="active">Recetas</a></li>
+          <li><a href="formulari.html">Contacto</a></li>
+          <li><a href="otrasCosas/others.html">Otras Cosas</a></li>
+      </ul>
+  </nav>
+  </header>
+  <br></br>
+  <div class="main-content">
+    <h1>Receptes de pastes</h1>
+    <p class="description">
+      La pasta és un dels pilars bàsics en l’alimentació d’un esportista. Gràcies al seu alt valor nutricional aporta molts carbohidrats de baix índex glucèmic. Ideal per a realitzar un esforç prolongat i no quedar-se sense energia.
+    </p>
+
+    <div class="recipe-grid">
+        <article class="recipe-card">
+            <div class="recipe-header">
+              <h2><a href="wip/WiP.html">Croquetas de pollo y jamón</a></h2>
+              <div class="recipe-icons">
+                <img src="imatges/icono_estrella_plateada.png" alt="Favorito" class="star-icon" onclick="toggleStar(this)">
+                <img src="imatges/icono_impresora.png" alt="Imprimir">
+                <img src="imatges/icono_pdf.png" alt="PDF">
+              </div>
+            </div>
+            <img src="imatges/croquetas-pollo.jpg" alt="croquetas-pollo" class="recipe-image">
+            <p class="recipe-description">Descripció croquetes.</p>
+            <p><strong>Dificultad:</strong> media &nbsp; <strong>Cocina:</strong> tradicional &nbsp; <strong>Vegetariana:</strong> sí &nbsp; <strong>Celíacos:</strong> no &nbsp; <strong>Anticáncer:</strong> no</p>
+            <div class="icons">
+              <img src="imatges/icono_naranja.png" alt="Apto" class="icon">
+              <img src="imatges/icono_cuenco.png" alt="Cuenco" class="icon">
+            </div>
+            <p class="author"><strong>Autor:</strong> </p>
+        </article>
+
+     
+
+   
+
+
+
+
+
+
+
+    <div class="pagination">
+        <button id="prev" disabled>Anterior</button>
+        <a href="receptes.html" class="page-link" data-page="1">1</a>
+        <a href="#" class="page-link" data-page="2">2</a>
+        <a href="receptes3.html" class="page-link" data-page="3">3</a>
+        <a href="wip/comingSoon.html" class="page-link" data-page="4">4</a>
+        <a href="wip/comingSoon.html" class="page-link" data-page="5">5</a>
+        <button id="next">Siguiente</button>
+    </div>
+    <footer>
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+            <a href="#">Pinterest</a>
+            <a href="#">Email</a>
+            <a href="#">RSS</a>
+        </div>
+    </footer>
+    <script>
+        function toggleStar(element) {
+          element.classList.toggle("active");
+        }
+    </script>
