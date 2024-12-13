@@ -162,29 +162,46 @@ body {
     margin-bottom: 10px; /* Espacio debajo de la imagen */
   }
   
+/*barra de les pàgines*/
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin: 20px 0;
+}
 
-  .pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    margin: 20px 0;
-}
 .pagination button, .pagination a {
-    padding: 10px 15px;
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
-    text-decoration: none;
-    color: black;
-    cursor: pointer;
+  padding: 12px 18px;
+  border: 1px solid #ccc;
+  background-color: #fdfdfd;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  border-radius: 25px;
+  font-family: 'Arial', sans-serif;
 }
+
 .pagination button:hover, .pagination a:hover {
-    background-color: #ddd;
+  background-color: #f3f3f3;
 }
+
 .pagination button:disabled {
-    cursor: not-allowed;
-    background-color: #eee;
+  cursor: not-allowed;
+  background-color: #f0f0f0;
 }
+
+/* Accent color */
+.pagination button.active, .pagination a.active {
+  background-color: #7ABA96;
+  color: white;
+  border-color: #7ABA96;
+}
+
+.pagination button.active:hover, .pagination a.active:hover {
+  background-color: #65A77A;
+}
+/*Fins aquí lo de la barra de les pàgines*/
 
 footer {
   background-color: #333;
