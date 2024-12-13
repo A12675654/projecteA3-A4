@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe id="1">
+        <name>Arroz Negro</name>
+        <image>arroz-negro.jpg</image>
+        <time>45 minutos</time>
+        <ingredients>
+            <ingredient>2 litros de caldo de frijol</ingredient>
+            <ingredient>250 g arroz</ingredient>
+            <ingredient>40 g manteca</ingredient>
+            <ingredient>4 hojas de epazote</ingredient>
+            <ingredient>2 dientes de ajo</ingredient>
+            <ingredient>2 chiles serranos</ingredient>
+            <ingredient>1 cebolla</ingredient>
+            <ingredient>sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Calienta el caldo de frijol a fuego medio.</step>
+            <step>Añade el arroz y cocina a fuego bajo hasta que esté tierno.</step>
+            <step>Derrite la manteca en una sartén aparte.</step>
+            <step>Fríe el ajo, los chiles y la cebolla en la manteca.</step>
+            <step>Añade el epazote y la mezcla de manteca al arroz.</step>
+            <step>Agrega sal al gusto y sirve caliente.</step>
+        </instructions>
+        <author>Chef Tradicional</author>
+        <tips>Asegúrate de usar caldo de frijol recién hecho para un mejor sabor.</tips>
+    </recipe>
+    <recipe id="4">
+        <name>Spaghetti Carbonara</name>
+        <ingredients>
+            <ingredient>Spaghetti</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Pancetta</ingredient>
+            <ingredient>Parmesan Cheese</ingredient>
+            <ingredient>Black Pepper</ingredient>
+        </ingredients>
+        <instructions>Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all ingredients and serve.</instructions>
+    </recipe>
+    <recipe id="15">
+        <name>Chicken Curry</name>
+        <ingredients>
+            <ingredient>Chicken</ingredient>
+            <ingredient>Coconut Milk</ingredient>
+            <ingredient>Curry Powder</ingredient>
+            <ingredient>Onion</ingredient>
+            <ingredient>Garlic</ingredient>
+        </ingredients>
+        <instructions>Sauté onion and garlic. Add chicken and curry powder. Pour in coconut milk and simmer.</instructions>
+    </recipe>
+    <recipe id="16">
+        <name>Vegetable Stir Fry</name>
+        <ingredients>
+            <ingredient>Broccoli</ingredient>
+            <ingredient>Carrots</ingredient>
+            <ingredient>Bell Peppers</ingredient>
+            <ingredient>Soy Sauce</ingredient>
+            <ingredient>Garlic</ingredient>
+        </ingredients>
+        <instructions>Stir fry vegetables in hot oil with garlic. Add soy sauce and serve hot.</instructions>
+    </recipe>
+    <recipe id="17">
+        <name>Beef Tacos</name>
+        <ingredients>
+            <ingredient>Ground Beef</ingredient>
+            <ingredient>Taco Shells</ingredient>
+            <ingredient>Cheese</ingredient>
+            <ingredient>Lettuce</ingredient>
+            <ingredient>Salsa</ingredient>
+        </ingredients>
+        <instructions>Cook ground beef. Fill taco shells with beef, cheese, lettuce, and salsa.</instructions>
+    </recipe>
+    <recipe id="18">
+        <name>Margherita Pizza</name>
+        <ingredients>
+            <ingredient>Pizza Dough</ingredient>
+            <ingredient>Tomato Sauce</ingredient>
+            <ingredient>Mozzarella Cheese</ingredient>
+            <ingredient>Basil</ingredient>
+        </ingredients>
+        <instructions>Spread tomato sauce on dough. Add mozzarella and basil. Bake until golden.</instructions>
+    </recipe>
+    <recipe id="19">
+        <name>Pancakes</name>
+        <ingredients>
+            <ingredient>Flour</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Milk</ingredient>
+            <ingredient>Sugar</ingredient>
+            <ingredient>Butter</ingredient>
+        </ingredients>
+        <instructions>Mix all ingredients. Cook on a hot pan until golden on both sides.</instructions>
+    </recipe>
+    <recipe id="20">
+        <name>Caesar Salad</name>
+        <ingredients>
+            <ingredient>Romaine Lettuce</ingredient>
+            <ingredient>Croutons</ingredient>
+            <ingredient>Caesar Dressing</ingredient>
+            <ingredient>Parmesan Cheese</ingredient>
+        </ingredients>
+        <instructions>Toss lettuce, croutons, and dressing. Top with Parmesan cheese.</instructions>
+    </recipe>
+    <recipe id="21">
+        <name>Chocolate Brownies</name>
+        <ingredients>
+            <ingredient>Chocolate</ingredient>
+            <ingredient>Butter</ingredient>
+            <ingredient>Sugar</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Flour</ingredient>
+        </ingredients>
+        <instructions>Melt chocolate and butter. Mix with sugar, eggs, and flour. Bake until set.</instructions>
+    </recipe>
+</recipes>
