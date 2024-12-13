@@ -25,17 +25,123 @@
         <author>Chef Tradicional</author>
         <tips>Asegúrate de usar caldo de frijol recién hecho para un mejor sabor.</tips>
     </recipe>
-    <recipe id="4">
-        <name>Spaghetti Carbonara</name>
+
+     <recipe id="2">
+        <name>Base de Pizza</name>
+        <image>base-pizza.webp</image>
+           <time>30 minutos</time>
         <ingredients>
-            <ingredient>Spaghetti</ingredient>
-            <ingredient>Eggs</ingredient>
-            <ingredient>Pancetta</ingredient>
-            <ingredient>Parmesan Cheese</ingredient>
-            <ingredient>Black Pepper</ingredient>
+            <ingredient>5 cucharadas soperas de leche</ingredient>
+            <ingredient>5 cucharadas soperas de aceite</ingredient>
+            <ingredient>5 cucharadas soperas de cerveza</ingredient>
+            <ingredient>1 cucharadita soperas de levadura</ingredient>
+            <ingredient>10 cucharadas soperas de harina</ingredient>
+            <ingredient>sal</ingredient>
         </ingredients>
-        <instructions>Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all ingredients and serve.</instructions>
+        <instructions>
+            <step>Para hacer la base de pizza, vertimos los tres líquidos en un bol.</step>
+            <step>Añadimos la levadura y la sal.</step>
+            <step>Mezclamos un poco y vamos añadiendo la harina poco a poco, amasando con las manos.</step>
+            <step>Cuando quede una masa de pizza blanda y no se nos pegue en las manos, estará lista para alargarla y ponerla en la bandeja del horno.</step>
+            <step>Si queremos hacer una pizza, añadimos a la base tomate frito, lonchas de queso y el resto de ingredientes al gusto: cebolla, queso, jamón, beicon, atún, salchichas...</step>
+            <step>Hornear la base de pizza de 15 a 20 minutos y ya tenemos nuestra pizza lista.</step>
+        </instructions>
+        <author>de Rechupete</author>
+        <tips>Para una masa más crujiente, deja reposar 10 minutos antes de alargarla en la bandeja.</tips>
     </recipe>
+
+    <recipe id="3">
+        <name>Aguacates Rellenos de Langostinos</name>
+        <image>aguacates-rellenos.jpg</image>
+        <time>?? minutos</time>
+        <ingredients>
+            <ingredient>2 aguacates</ingredient>
+            <ingredient>500 grs. de langostinos</ingredient>
+            <ingredient>1 cebolleta</ingredient>
+            <ingredient>2 cucharaditas de alcaparras</ingredient>
+            <ingredient>1 huevo</ingredient>
+            <ingredient>350 grs. de lechuga</ingredient>
+            <ingredient>150 grs. de zanahoria</ingredient>
+            <ingredient>1 taza de mayonesa</ingredient>
+            <ingredient>2 cucharadas de ketchup</ingredient>
+            <ingredient>sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Cocer los langostinos en agua hirviendo durante 1 minuto contando desde que el agua comience a hervir y tras echar los langostinos.</step>
+            <step>Sacar los langostinos escurridos y ponerlos en un cuenco con agua fría con bastante sal, dejar enfriar, escurrir, pelar y reservar.</step>
+            <step>Lavar la lechuga y cortarla en juliana.</step>
+            <step>Raspar la piel a las zanahorias, lavarlas y cortarlas en juliana.</step>
+            <step>Pelar la cebolleta y picarla muy menuda.</step>
+            <step>Cortar los aguacates por la mitad en sentido longitudinal y extraer los huesos.</step>
+            <step>Trocear los langostinos, dejando unos cuantos enteros para adornar.</step>
+            <step>Mezclar en un cuenco las zanahorias, la lechuga, los langostinos troceados, la cebolleta y las alcaparras.</step>
+            <step>Mezclar la mayonesa con el ketchup y agregar a la ensalada preparada, mezclando bien.</step>
+            <step>Rellenar los huecos de los aguacates con la ensalada, adornar con los langostinos reservados y servir.</step>
+        </instructions>
+        <author>Selena</author>
+        <tips>Tips d'aguacates jo q se.</tips>
+    </recipe>
+
+    <recipe id="4">
+        <name>Espaguetis a la Carbonara</name>
+        <image>espaguetis-carbonara.jpg</image>
+        <time>30 minutos</time>
+        <ingredients>
+            <ingredient>450 g de espaguetis</ingredient>
+            <ingredient>1 cucharada de aceite de oliva</ingredient>
+            <ingredient>225 g de panceta sin corteza o beicon magro troceado</ingredient>
+            <ingredient>4 huevos</ingredient>
+            <ingredient>5 cucharadas de nata líquida</ingredient>
+            <ingredient>4 cucharadas de parmesano recién rallado</ingredient>
+            <ingredient>sal y pimienta</ingredient>
+        </ingredients>
+        <instructions>
+            <step>En una olla de base gruesa, ponga agua con un poco de sal y llévela a ebullición.</step>
+            <step>Eche los espaguetis, deje que vuelva a hervir y cuézalos de 8 a 10 minutos o hasta que estén al dente.</step>
+            <step>Mientras tanto, caliente el aceite en una sartén de base pesada y fría la panceta a fuego medio unos 8 o 10 minutos, removiendo con frecuencia.</step>
+            <step>En un bol, bata los huevos con la nata líquida y salpimiente al gusto.</step>
+            <step>Escurra los espaguetis y vuelva a ponerlos en la olla.</step>
+            <step>Incorpore la panceta frita y, a continuación, la mezcla de huevo y la mitad del parmesano.</step>
+            <step>Remueva todo bien y páselo a una fuente de servir caliente.</step>
+            <step>Sirva los espaguetis a la carbonara enseguida con el resto del queso.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Asegúrate de servir los espaguetis de inmediato para mantener la textura cremosa de la salsa.</tips>
+    </recipe>
+
+    <recipe id="5">
+        <name>Canelones con Setas y Gambas</name>
+        <image>canelones-setas-gambas.jpg</image>
+        <time>60 minutos</time>
+        <ingredients>
+            <ingredient>12 canelones al huevo</ingredient>
+            <ingredient>100 grs. de setas</ingredient>
+            <ingredient>4 cucharadas de harina</ingredient>
+            <ingredient>4 vasos de leche</ingredient>
+            <ingredient>70 grs. de mantequilla</ingredient>
+            <ingredient>200 grs. de gambas peladas</ingredient>
+            <ingredient>1 limón</ingredient>
+            <ingredient>200 grs. de queso parmesano</ingredient>
+            <ingredient>sal y pimienta</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Cocer los canelones en el agua hirviendo con sal durante el tiempo recomendado por el fabricante, hasta que queden al dente.</step>
+            <step>Escurrir los canelones y sumergirlos inmediatamente en agua fría. Escurrirlos de nuevo y dejarlos sobre un paño limpio.</step>
+            <step>Preparar una bechamel, fundir 4 cucharadas de mantequilla, agregar la harina y freírla unos instantes, removiendo.</step>
+            <step>Verter la leche, salpimentar y cocer, removiendo, hasta que espese.</step>
+            <step>Saltear las gambas en una sartén.</step>
+            <step>Guisar las setas, escurrirlas, picarlas y añadirlas a las gambas.</step>
+            <step>Agregar unas gotas de limón, 100 grs. de queso parmesano rallado y la mitad de la bechamel preparada.</step>
+            <step>Mezclar bien, rellenar los canelones con la mezcla de setas y gambas y disponerlos en una fuente de horno untada con mantequilla.</step>
+            <step>Rociar los canelones con el resto de la bechamel y espolvorear con queso rallado y unos trocitos de mantequilla.</step>
+            <step>Hornear 15 minutos y servir los canelones con setas y gambas caliente.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Asegúrate de cocer los canelones justo al dente para que no se deshagan al manipularlos.</tips>
+    </recipe>
+
+
+
     <recipe id="15">
         <name>Chicken Curry</name>
         <ingredients>
