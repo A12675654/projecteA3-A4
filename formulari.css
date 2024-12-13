@@ -113,3 +113,27 @@ header {
   body {
     padding-top: 120px;
   }
+
+  footer {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+  }
+  
+  footer .social-links a {
+    color: #FFF;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  footer .social-links a:hover {
+    color: #7ABA96;
+  }
+  
+  .margintest {
+    margin-top: 2%;
+  
+  }
