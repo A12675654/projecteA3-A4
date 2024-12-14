@@ -489,12 +489,159 @@
         <tips>Añada un poco de queso parmesano rallado a la mezcla para un gratinado más sabroso.</tips>
     </recipe>
 
+    <!-- Recipe 1: Gula al Ajillo sin Gluten -->
+    <recipe id="24">
+        <name>Gula al Ajillo sin Gluten</name>
+        <image>gula-ajillo.jpg</image>
+        <time>15 minutos</time>
+        <ingredients>
+            <ingredient>1 paquete de gula sin gluten</ingredient>
+            <ingredient>3 dientes de ajo</ingredient>
+            <ingredient>4 cayenas sin gluten</ingredient>
+            <ingredient>Aceite de oliva</ingredient>
+            <ingredient>Tomates cherry para decorar</ingredient>
+        </ingredients>
+        <instructions>
+            <step>En una sartén, cubrir la base con aceite y calentar.</step>
+            <step>Pelar los ajos, cortarlos en rodajas y añadirlos al aceite caliente.</step>
+            <step>Cuando los ajos empiecen a tomar color, añadir las cayenas y freír bien los ajos.</step>
+            <step>Incorporar la gula, mezclar y freír durante 3 minutos. Retirar del fuego.</step>
+            <step>Emplatar y decorar con tomates cherry. Listo para servir.</step>
+        </instructions>
+        <author>Cocina Rápida</author>
+        <tips>Añadir perejil picado para un toque de frescura adicional.</tips>
+    </recipe>
+
+    <!-- Recipe 25: Ensalada de Fresas, Espinacas y Salsa de Yogur -->
+    <recipe id="25">
+        <name>Ensalada de Fresas, Espinacas y Salsa de Yogur</name>
+        <image>ensalada-fresas-espinacas.jpg</image>
+        <time>10 minutos</time>
+        <ingredients>
+            <ingredient>Brotes de espinacas</ingredient>
+            <ingredient>200 gramos de fresas</ingredient>
+            <ingredient>100 gramos de nueces</ingredient>
+            <ingredient>1 yogur natural</ingredient>
+            <ingredient>Ralladura de limón</ingredient>
+            <ingredient>1 cucharada de aceite</ingredient>
+            <ingredient>Sal</ingredient>
+            <ingredient>Pimienta</ingredient>
+            <ingredient>2 hojas de menta fresca</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Preparar la salsa de yogur mezclando el aceite, la sal, la pimienta, la ralladura de limón y las hojas de menta picadas. Batir hasta obtener una mezcla homogénea.</step>
+            <step>En platos individuales, montar una base con brotes de espinacas.</step>
+            <step>Cortar las fresas en láminas y colocarlas sobre las espinacas.</step>
+            <step>Espolvorear las nueces picadas y añadir la salsa de yogur por encima.</step>
+            <step>Servir inmediatamente para disfrutar de su frescura.</step>
+        </instructions>
+        <author>Fresas de Europa</author>
+        <tips>Utiliza fresas de temporada para un sabor más intenso.</tips>
+    </recipe>
+
+    <!-- Recipe 26: Coca con Miel -->
+    <recipe id="26">
+        <name>Coca con Miel</name>
+        <image>coca-miel.jpg</image>
+        <time>45 minutos</time>
+        <ingredients>
+            <ingredient>4 huevos</ingredient>
+            <ingredient>4 cucharadas de azúcar</ingredient>
+            <ingredient>150 g de harina</ingredient>
+            <ingredient>1/2 sobre de levadura (10 g)</ingredient>
+            <ingredient>Mantequilla</ingredient>
+            <ingredient>Hojas de menta</ingredient>
+            <almibar>
+                <ingredient>150 ml de miel</ingredient>
+                <ingredient>100 ml de ron</ingredient>
+                <ingredient>150 ml de agua</ingredient>
+                <ingredient>250 g de azúcar</ingredient>
+            </almibar>
+        </ingredients>
+        <instructions>
+            <step>Preparar el almíbar mezclando los ingredientes y cocinando durante 15 minutos a temperatura varoma. Reservar y enfriar.</step>
+            <step>Separar las claras de las yemas. Montar las claras con sal durante 3 minutos. Reservar.</step>
+            <step>Precalentar el horno a 180ºC.</step>
+            <step>Mezclar las yemas con los demás ingredientes. Verter la mezcla en un molde untado con mantequilla.</step>
+            <step>Hornear durante 20 minutos a 180ºC. Enfriar y pinchar la superficie para regar con el almíbar. Dejar reposar para absorber el almíbar.</step>
+        </instructions>
+        <author>Postres Clásicos</author>
+        <tips>Decora con hojas de menta para un toque fresco y colorido.</tips>
+    </recipe>
+
+    <!-- Recipe 27: Dados de Pastel Fresco con Yogur -->
+    <recipe id="27">
+        <name>Dados de Pastel Fresco con Yogur</name>
+        <image>dados-pastel-fresco.jpg</image>
+        <time>2 horas</time>
+        <ingredients>
+            <ingredient>24 cerezas</ingredient>
+            <ingredient>3 yogures naturales</ingredient>
+            <ingredient>15 ml de ron blanco</ingredient>
+            <ingredient>2 yemas de huevo</ingredient>
+            <ingredient>100 g de azúcar</ingredient>
+            <ingredient>200 ml de leche evaporada</ingredient>
+            <ingredient>4 hojas de gelatina</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Lavar las cerezas y secarlas.</step>
+            <step>Hidratar la gelatina en agua fría durante 5 minutos.</step>
+            <step>Blanquear las yemas con el ron y el azúcar durante 3 minutos a 90ºC.</step>
+            <step>Añadir la leche evaporada y la gelatina. Remover 30 segundos a 90ºC y dejar atemperar.</step>
+            <step>Incorporar los yogures y mezclar. Verter en una cubitera, colocando una cereza en cada cubito.</step>
+            <step>Enfriar en la nevera y después congelar durante 1 hora y media. Desmoldar y servir.</step>
+        </instructions>
+        <author>Postres Modernos</author>
+        <tips>Acompaña con una salsa de frutas para realzar el sabor.</tips>
+    </recipe>
 
 
 
+     <!-- Recipe 28: Huevos Benedict con Aguacate -->
+    <recipe id="28">
+        <name>Huevos Benedict con Aguacate</name>
+        <image>huevos-benedict-aguacate.jpg</image>
+        <time>20 minutos</time>
+        <ingredients>
+            <ingredient>2 aguacates Hass</ingredient>
+            <ingredient>4 medallones de bacon</ingredient>
+            <ingredient>4 huevos</ingredient>
+            <ingredient>2 panecillos</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Cortar los aguacates por la mitad, sacar la pulpa, aplastarla con un tenedor y untar la pasta sobre los panecillos.</step>
+            <step>Freír los medallones de bacon.</step>
+            <step>Al mismo tiempo, cocer con cuidado los huevos en agua hirviendo.</step>
+            <step>Tostar los panecillos y untar generosamente la pasta de aguacate sobre ellos. Colocar un medallón de bacon sobre cada uno y, a continuación, los huevos cocidos. Servir inmediatamente.</step>
+        </instructions>
+        <author>Recetas Fáciles</author>
+        <tips>Para un toque adicional, añada una pizca de pimienta negra sobre los huevos antes de servir.</tips>
+    </recipe>
 
-
-
+    <!-- Recipe 29: Pannacotta de Fresas -->
+    <recipe id="29">
+        <name>Pannacotta de Fresas</name>
+        <image>pannacotta-fresas.jpg</image>
+        <time>4-5 horas de enfriado, 20 minutos de preparación</time>
+        <ingredients>
+            <ingredient>500ml de nata</ingredient>
+            <ingredient>300ml de leche</ingredient>
+            <ingredient>50g de azúcar</ingredient>
+            <ingredient>6 hojas de gelatina neutra sin gluten</ingredient>
+            <ingredient>1 vaina de vainilla</ingredient>
+            <ingredient>250g de fresas</ingredient>
+            <ingredient>60g de azúcar para la salsa</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Cortar las fresas en dados pequeños y caramelizarlas en un cazo con el azúcar durante 10 minutos a fuego lento. Verter en moldes individuales y dejar enfriar.</step>
+            <step>En un recipiente, mezclar la nata, la leche y el azúcar. Añadir las semillas de una vaina de vainilla y remover antes de que hierva.</step>
+            <step>Retirar del fuego y agregar las hojas de gelatina previamente hidratadas en agua fría. Remover hasta que se disuelvan completamente.</step>
+            <step>Verter la mezcla sobre los moldes con la salsa de fresas y dejar enfriar en la nevera durante 4-5 horas.</step>
+            <step>Desmoldar y decorar con una fresa y una hoja de menta fresca antes de servir.</step>
+        </instructions>
+        <author>Fresas de Europa</author>
+        <tips>Para un sabor más intenso, utilice fresas frescas y maduras. Acompañe con nata montada si lo desea.</tips>
+    </recipe>
 
     <!-- Recipe 31: Amaretti -->
     <recipe id="31">
@@ -616,82 +763,80 @@
         <tips>Sirva en cazuelas de barro para mantener la tradición y conservar el calor del plato.</tips>
     </recipe>
 
+     <!-- Recipe 35: Ternera con Setas y Gambas -->
+    <recipe id="35">
+        <name>Ternera con Setas y Gambas</name>
+        <image>ternera-setas-gambas.jpg</image>
+        <time>1 hora 30 minutos</time>
+        <ingredients>
+            <ingredient>750 gramos de redondo de ternera en una pieza</ingredient>
+            <ingredient>Medio pimiento verde picado</ingredient>
+            <ingredient>1 diente de ajo</ingredient>
+            <ingredient>200 gramos de setas</ingredient>
+            <ingredient>12 gambas grandes frescas</ingredient>
+            <ingredient>4 cucharadas de tomate triturado</ingredient>
+            <ingredient>1 cucharada de harina de maíz</ingredient>
+            <ingredient>1 decilitro de aceite de oliva</ingredient>
+            <ingredient>Sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Atar la pieza de ternera, salpimentar ligeramente y colocar en una bandeja de horno untada de aceite de oliva. Hornear a 200°C, rociando de vez en cuando con su jugo.</step>
+            <step>Después de 35 minutos de cocción, apagar el horno y dejar enfriar la ternera.</step>
+            <step>Pelar las gambas y reservar. Saltear las cabezas y pieles con un chorrito de aceite de oliva, añadir un vaso de agua, sal y cocinar 5 minutos. Incorporar el tomate triturado y cocer 10 minutos más.</step>
+            <step>En una cazuela, sofreír el ajo y el pimiento verde con aceite de oliva. Añadir las setas y rehogar 5 minutos antes de retirarlas.</step>
+            <step>En la misma cazuela, saltear las gambas durante un minuto y reservar.</step>
+            <step>Devolver las setas a la cazuela, colar el caldo de las gambas, añadirlo (reservando medio vaso) y cocinar a fuego medio. Diluir la harina de maíz en el caldo reservado, añadirlo junto con los jugos de la ternera y cocinar 15 minutos.</step>
+            <step>Cortar la ternera en filetes finos, añadirlos a la cazuela a mitad de cocción y, dos minutos antes de terminar, incorporar las gambas. Dejar reposar 5 minutos y servir con las setas, gambas y salsa.</step>
+        </instructions>
+        <author>Cocina Tradicional</author>
+        <tips>Utiliza setas de temporada para un sabor más auténtico.</tips>
+    </recipe>
+
+    <!-- Recipe 36: Sorbete de Fresas al Cava -->
+    <recipe id="36">
+        <name>Sorbete de Fresas al Cava</name>
+        <image>sorbete-fresas-cava.jpg</image>
+        <time>4 horas (incluyendo congelación)</time>
+        <ingredients>
+            <ingredient>1 benjamín de cava</ingredient>
+            <ingredient>500 gramos de fresas</ingredient>
+            <ingredient>150 gramos de azúcar</ingredient>
+            <ingredient>1 mandarina</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Colocar el cava en un recipiente hermético y congelar.</step>
+            <step>Lavar y cortar las fresas en láminas finas. Añadir el azúcar y el jugo de una mandarina, dejando reposar hasta disolver el azúcar.</step>
+            <step>Triturar las fresas, colar para eliminar grumos y mezclar con el cava congelado triturado.</step>
+            <step>Ajustar el dulzor con más azúcar si es necesario y servir frío.</step>
+        </instructions>
+        <author>Postres Refrescantes</author>
+        <tips>Usa fresas maduras para un sabor más dulce y natural.</tips>
+    </recipe>
+
+    <!-- Recipe 37: Aperitivo de Patata, Queso, Sobrasada y Miel -->
+    <recipe id="37">
+        <name>Aperitivo de Patata, Queso, Sobrasada y Miel</name>
+        <image>aperitivo-patata-queso-miel.jpg</image>
+        <time>45 minutos</time>
+        <ingredients>
+            <ingredient>4 patatas medianas</ingredient>
+            <ingredient>Queso de untar, brie o manchego al gusto</ingredient>
+            <ingredient>200 gramos de sobrasada</ingredient>
+            <ingredient>Miel</ingredient>
+            <ingredient>Sal y pimienta</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Lavar bien las patatas, secar y cortar por la mitad.</step>
+            <step>Salpimentar las patatas y hornear sobre papel sulfurizado durante 35-40 minutos.</step>
+            <step>Retirar del horno, cubrir con queso, sobrasada y un hilo de miel. Volver a hornear 5 minutos.</step>
+            <step>Adornar con hojas de perifollo y servir caliente.</step>
+        </instructions>
+        <author>Recetas Gourmet</author>
+        <tips>Prueba con queso manchego para un toque más intenso.</tips>
+    </recipe>
 
 
 
-    <recipe id="30">
-        <name>Chicken Curry</name>
-        <ingredients>
-            <ingredient>Chicken</ingredient>
-            <ingredient>Coconut Milk</ingredient>
-            <ingredient>Curry Powder</ingredient>
-            <ingredient>Onion</ingredient>
-            <ingredient>Garlic</ingredient>
-        </ingredients>
-        <instructions>Sauté onion and garlic. Add chicken and curry powder. Pour in coconut milk and simmer.</instructions>
-    </recipe>
-    <recipe id="29">
-        <name>Vegetable Stir Fry</name>
-        <ingredients>
-            <ingredient>Broccoli</ingredient>
-            <ingredient>Carrots</ingredient>
-            <ingredient>Bell Peppers</ingredient>
-            <ingredient>Soy Sauce</ingredient>
-            <ingredient>Garlic</ingredient>
-        </ingredients>
-        <instructions>Stir fry vegetables in hot oil with garlic. Add soy sauce and serve hot.</instructions>
-    </recipe>
-    <recipe id="28">
-        <name>Beef Tacos</name>
-        <ingredients>
-            <ingredient>Ground Beef</ingredient>
-            <ingredient>Taco Shells</ingredient>
-            <ingredient>Cheese</ingredient>
-            <ingredient>Lettuce</ingredient>
-            <ingredient>Salsa</ingredient>
-        </ingredients>
-        <instructions>Cook ground beef. Fill taco shells with beef, cheese, lettuce, and salsa.</instructions>
-    </recipe>
-    <recipe id="27">
-        <name>Margherita Pizza</name>
-        <ingredients>
-            <ingredient>Pizza Dough</ingredient>
-            <ingredient>Tomato Sauce</ingredient>
-            <ingredient>Mozzarella Cheese</ingredient>
-            <ingredient>Basil</ingredient>
-        </ingredients>
-        <instructions>Spread tomato sauce on dough. Add mozzarella and basil. Bake until golden.</instructions>
-    </recipe>
-    <recipe id="26">
-        <name>Pancakes</name>
-        <ingredients>
-            <ingredient>Flour</ingredient>
-            <ingredient>Eggs</ingredient>
-            <ingredient>Milk</ingredient>
-            <ingredient>Sugar</ingredient>
-            <ingredient>Butter</ingredient>
-        </ingredients>
-        <instructions>Mix all ingredients. Cook on a hot pan until golden on both sides.</instructions>
-    </recipe>
-    <recipe id="25">
-        <name>Caesar Salad</name>
-        <ingredients>
-            <ingredient>Romaine Lettuce</ingredient>
-            <ingredient>Croutons</ingredient>
-            <ingredient>Caesar Dressing</ingredient>
-            <ingredient>Parmesan Cheese</ingredient>
-        </ingredients>
-        <instructions>Toss lettuce, croutons, and dressing. Top with Parmesan cheese.</instructions>
-    </recipe>
-    <recipe id="24">
-        <name>Chocolate Brownies</name>
-        <ingredients>
-            <ingredient>Chocolate</ingredient>
-            <ingredient>Butter</ingredient>
-            <ingredient>Sugar</ingredient>
-            <ingredient>Eggs</ingredient>
-            <ingredient>Flour</ingredient>
-        </ingredients>
-        <instructions>Melt chocolate and butter. Mix with sugar, eggs, and flour. Bake until set.</instructions>
-    </recipe>
+
+    
 </recipes>
