@@ -140,9 +140,364 @@
         <tips>Asegúrate de cocer los canelones justo al dente para que no se deshagan al manipularlos.</tips>
     </recipe>
 
+        <recipe id="6">
+        <name>Fideuà</name>
+        <image>fideua.jpg</image>
+        <time>60 minutos</time>
+        <ingredients>
+            <ingredient>80 g de fideos por persona</ingredient>
+            <ingredient>Aceite de oliva</ingredient>
+            <ingredient>2 dientes de ajo</ingredient>
+            <ingredient>1 cebolla pequeña o cebolleta</ingredient>
+            <ingredient>2 pimientos verdes</ingredient>
+            <ingredient>1 pimiento rojo</ingredient>
+            <ingredient>3 tomates maduros</ingredient>
+            <ingredient>1 calamar</ingredient>
+            <ingredient>150 g de rape u otro pescado consistente</ingredient>
+            <ingredient>150 g de chirlas</ingredient>
+            <ingredient>150 g de gamba arrocera</ingredient>
+            <ingredient>1 kg de mejillones</ingredient>
+            <ingredient>1.5 litros de caldo de pescado</ingredient>
+            <ingredient>Sal</ingredient>
+            <ingredient>Azafrán y colorante</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Pon a hervir algo más de litro y medio de agua. Echa las gambas cuando hierva. Retíralas y cocina los mejillones 5 minutos.</step>
+            <step>Pela las gambas y los mejillones, guarda las cáscaras y cuela el caldo. Reserva.</step>
+            <step>Pica finamente el ajo, la cebolla y los pimientos. Escalda los tomates, pélalos, pícalos y retira las pepitas.</step>
+            <step>En una paella con aceite a fuego suave, fríe las cáscaras de gambas 5 minutos. Retíralas y deja el aceite limpio.</step>
+            <step>Sofríe en la paella el ajo, la cebolla y los pimientos. Añade el tomate hasta que se ablande.</step>
+            <step>Añade el calamar cortado en anillas, el pescado en tacos y las chirlas. Cuando se abran, agrega los fideos y rehoga 1 minuto.</step>
+            <step>Añade el caldo de pescado, sal, azafrán y colorante. Coloca las gambas y mejillones pelados. Cocina 6 minutos a fuego fuerte.</step>
+            <step>Baja el fuego a la mitad y deja cocinar hasta que se absorba casi todo el caldo. Debe quedar un poco de caldo en el fondo.</step>
+            <step>Tapa la fideuà con un trapo húmedo y espera 5 minutos antes de servir.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Utiliza caldo de pescado casero para un sabor más intenso.</tips>
+    </recipe>
 
+    <!-- Recipe 2: Gazpacho de Fresas -->
+    <recipe id="10">
+        <name>Gazpacho de Fresas</name>
+        <image>gazpacho-fresas.jpg</image>
+        <time>20 minutos</time>
+        <ingredients>
+            <ingredient>500 g de tomates</ingredient>
+            <ingredient>500 g de fresas</ingredient>
+            <ingredient>Medio pepino</ingredient>
+            <ingredient>Medio pimiento verde</ingredient>
+            <ingredient>Medio diente de ajo</ingredient>
+            <ingredient>50 g de pan duro</ingredient>
+            <ingredient>35 ml de aceite de oliva virgen extra</ingredient>
+            <ingredient>Sal</ingredient>
+            <ingredient>Agua y vinagre al gusto</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Pela y trocea los tomates, las fresas, el pepino y el pimiento.</step>
+            <step>Bate todos los ingredientes en un bol grande y añade el resto de los ingredientes.</step>
+            <step>Prueba la mezcla y ajusta el agua, la sal y el vinagre al gusto.</step>
+            <step>Pasa la mezcla por un colador o pasapurés para que quede sin grumos.</step>
+            <step>Sirve el gazpacho bien frío.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Usa fresas frescas y maduras para potenciar el dulzor natural del gazpacho.</tips>
+    </recipe>
 
+    <!-- Recipe 3: Flan de Huevo con Vainilla y Canela -->
+    <recipe id="12">
+        <name>Flan de Huevo con Vainilla y Canela</name>
+        <image>flan-huevo.jpg</image>
+        <time>60 minutos</time>
+        <ingredients>
+            <ingredient>1/2 litro de leche</ingredient>
+            <ingredient>5 huevos</ingredient>
+            <ingredient>100 g de azúcar</ingredient>
+            <ingredient>La peladura de un limón</ingredient>
+            <ingredient>1 vaina de vainilla</ingredient>
+            <ingredient>1 ramita de canela</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Hierve la leche con la vaina de vainilla, la ramita de canela y la peladura de limón.</step>
+            <step>En un bol, bate los huevos con el azúcar hasta que la mezcla blanquee.</step>
+            <step>Vierte la leche colada sobre la mezcla de huevos y azúcar. Mezcla bien.</step>
+            <step>Vierte en un molde caramelizado y hornea al baño maría a 160ºC durante 45 minutos.</step>
+            <step>Deja enfriar antes de servir.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>El baño maría asegura que el flan tenga una textura suave y cremosa.</tips>
+    </recipe>
+
+    <!-- Recipe 4: Crema Catalana -->
+    <recipe id="13">
+        <name>Crema Catalana</name>
+        <image>crema-catalana.jpg</image>
+        <time>30 minutos + 6 horas de refrigeración</time>
+        <ingredients>
+            <ingredient>8 yemas de huevo</ingredient>
+            <ingredient>1 litro de leche</ingredient>
+            <ingredient>200 g de azúcar</ingredient>
+            <ingredient>80 g de harina de maíz o 120 g de harina de trigo</ingredient>
+            <ingredient>Piel de naranja</ingredient>
+            <ingredient>Piel de limón</ingredient>
+            <ingredient>1 rama de canela</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Calienta la leche con las pieles de naranja, limón y la canela.</step>
+            <step>Mezcla las yemas de huevo con el azúcar y la harina de maíz usando un poco de leche caliente si es necesario.</step>
+            <step>Incorpora la mezcla de yemas a la leche caliente y cuela para eliminar impurezas.</step>
+            <step>Cocina a fuego lento removiendo hasta que espese. Deja enfriar en cazuelas de barro.</step>
+            <step>Refrigera por 6 horas. Antes de servir, espolvorea azúcar y caramelízalo con un quemador.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para un toque extra, puedes añadir unas gotas de licor a la mezcla antes de enfriar.</tips>
+    </recipe>
+
+    <!-- Recipe 5: Puerros a la Crema -->
+    <recipe id="14">
+        <name>Puerros a la Crema</name>
+        <image>puerros-crema.jpg</image>
+        <time>35 minutos</time>
+        <ingredients>
+            <ingredient>Vaso y medio de agua</ingredient>
+            <ingredient>6 puerros</ingredient>
+            <ingredient>Piel de limón</ingredient>
+            <ingredient>1 hoja de laurel</ingredient>
+            <ingredient>Mantequilla</ingredient>
+            <ingredient>Nuez moscada</ingredient>
+            <ingredient>Harina</ingredient>
+            <ingredient>Pan rallado</ingredient>
+            <ingredient>Pimienta</ingredient>
+            <ingredient>80 ml de nata líquida</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Precalienta el horno a 200ºC. Parte los puerros en cuatro trozos y átalos con un cordel para formar paquetitos.</step>
+            <step>Hiérvelos durante 20 minutos con piel de limón y una hoja de laurel. Guarda el líquido.</step>
+            <step>Sofríe dos cucharadas de harina con mantequilla en una sartén, agrega el caldo de los puerros y remueve hasta que espese como una crema.</step>
+            <step>Retira del fuego y añade pimienta, nuez moscada y la nata líquida.</step>
+            <step>Coloca los puerros en una fuente para horno, vierte la salsa por encima, espolvorea pan rallado y hornea durante 15 minutos.</step>
+            <step>Retira los cordeles antes de servir.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para un toque más dorado, gratina los puerros los últimos minutos de horneado.</tips>
+    </recipe>
+
+    <!-- Recipe 6: Garbanzos con Chorizo -->
     <recipe id="15">
+        <name>Garbanzos con Chorizo</name>
+        <image>garbanzos-chorizo.jpg</image>
+        <time>120 minutos</time>
+        <ingredients>
+            <ingredient>400 g de garbanzos remojados</ingredient>
+            <ingredient>200 g de chorizo colorado</ingredient>
+            <ingredient>1 cebolla</ingredient>
+            <ingredient>1 puerro</ingredient>
+            <ingredient>1 zanahoria</ingredient>
+            <ingredient>400 g de huesos de caracú</ingredient>
+            <ingredient>Agua</ingredient>
+            <ingredient>Perejil picado</ingredient>
+            <ingredient>Aceite</ingredient>
+            <ingredient>Sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Pon los garbanzos en remojo la víspera. Escúrrelos y colócalos en una cacerola con agua hirviendo.</step>
+            <step>Añade la verdura troceada, una cucharada de aceite, sal y cuece durante una hora en una olla rápida o dos horas en una olla convencional.</step>
+            <step>Si falta agua, añádela siempre hirviendo.</step>
+            <step>En una cacerola aparte, cuece el chorizo, trocéalo y agrégalo a la mezcla de garbanzos y verduras.</step>
+            <step>Sirve en una fuente y espolvorea con perejil picado.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Utiliza caldo de cocción para darle más sabor al plato al servir.</tips>
+    </recipe>
+
+    <recipe id="17">
+        <name>Croquetas de Pollo y Jamón</name>
+        <image>croquetas-pollo-jamon.jpg</image>
+        <time>3 horas (incluyendo refrigeración)</time>
+        <ingredients>
+            <ingredient>4 cucharadas de aceite de oliva</ingredient>
+            <ingredient>4 cucharadas de harina</ingredient>
+            <ingredient>200 ml de leche</ingredient>
+            <ingredient>120 g de carne de pollo cocida, picada</ingredient>
+            <ingredient>60 g de jamón serrano o cocido picado muy fino</ingredient>
+            <ingredient>1 cucharada de perejil picado</ingredient>
+            <ingredient>1 pizca de nuez moscada recién rallada</ingredient>
+            <ingredient>Sal y pimienta</ingredient>
+            <ingredient>1 huevo batido</ingredient>
+            <ingredient>60 g de pan blanco rallado</ingredient>
+            <ingredient>Aceite de girasol, para freír</ingredient>
+            <ingredient>Alioli, para acompañar</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Calienta el aceite de oliva en un cazo. Añade la harina y dórela a fuego lento durante 1 minuto, removiendo constantemente.</step>
+            <step>Vierte poco a poco la leche mientras remueves para disolver bien la harina. Lleva a ebullición y cocina hasta que burbujee y espese.</step>
+            <step>Retira del fuego, añade la carne de pollo picada, el jamón, el perejil y la nuez moscada. Mezcla bien y ajusta la sal y pimienta.</step>
+            <step>Extiende la masa en un plato y deja enfriar 30 minutos. Cúbrela con film transparente y refrigérala por 2-3 horas o toda la noche.</step>
+            <step>Coloca el huevo batido en un plato y el pan rallado en otro. Forma croquetas con la masa, sumérgelas en el huevo y luego en el pan rallado. Refrigera 1 hora más.</step>
+            <step>Calienta el aceite en una freidora a 180-190 ºC. Fríe las croquetas en tandas durante 5-10 minutos hasta que estén doradas y crujientes.</step>
+            <step>Saca las croquetas con una rasera y déjalas escurrir sobre papel de cocina. Sirve con alioli y ramitas de perejil.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para una textura aún más suave, pasa la masa por un colador antes de refrigerarla.</tips>
+    </recipe>
+
+    
+    <recipe id="18">
+        <name>Entrante de Alcachofas</name>
+        <image>alcachofas-entrante.jpg</image>
+        <time>30 minutos</time>
+        <ingredients>
+            <ingredient>4 alcachofas</ingredient>
+            <ingredient>1 limón</ingredient>
+            <ingredient>1 vaso de vinagre blanco</ingredient>
+            <ingredient>1 cucharada de alcaparras</ingredient>
+            <ingredient>Aceite de oliva</ingredient>
+            <ingredient>Agua</ingredient>
+            <ingredient>Sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Retira las hojas exteriores de las alcachofas y córtalas verticalmente en lonchas delgadas. Coloca las lonchas en un recipiente con agua y zumo de limón.</step>
+            <step>Hierve una cazuela de barro con agua y vinagre en partes iguales.</step>
+            <step>Cuando hierva, introduce las alcachofas durante 3 minutos. Luego escúrrelas y sécalas con un trapo de cocina limpio.</step>
+            <step>Coloca las alcachofas en capas en un recipiente. Sobre cada capa, espolvorea sal, alcaparras trituradas y aceite de oliva. Agrega pimienta si lo deseas.</step>
+            <step>Rocía la última capa con un poco más de aceite de oliva. Sirve como entrante o acompañamiento.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para un toque diferente, añade unas gotas de limón o una pizca de pimentón dulce al aderezo.</tips>
+    </recipe>
+
+
+
+    <recipe id="19">
+        <name>Mejillones al Vapor</name>
+        <image>mejillones-al-vapor.jpg</image>
+        <time>15 minutos</time>
+        <ingredients>
+            <ingredient>500 gramos de mejillones de roca</ingredient>
+            <ingredient>1/2 vaso de vino blanco</ingredient>
+            <ingredient>1/2 limón</ingredient>
+            <ingredient>1 ramita de romero</ingredient>
+            <ingredient>Un chorrito de aceite de oliva</ingredient>
+            <ingredient>Pimienta blanca molida</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Raspa y lava bien los mejillones para eliminar impurezas.</step>
+            <step>Pon los mejillones en una olla y rocía con pimienta blanca molida, aceite de oliva, el jugo del medio limón y el vino blanco.</step>
+            <step>Añade la ramita de romero y tapa la olla.</step>
+            <step>Cocina a fuego vivo hasta que las conchas se abran. Retira rápidamente del fuego.</step>
+            <step>Sirve en cuencos y disfruta caliente.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Si prefieres un sabor más intenso, añade una pizca de ajo picado antes de cocinar.</tips>
+    </recipe>
+
+    <!-- Recipe 4: Calabacines Rellenos de Arroz y Carne Picada -->
+    <recipe id="20">
+        <name>Calabacines Rellenos de Arroz y Carne Picada</name>
+        <image>calabacines-rellenos.jpg</image>
+        <time>1 hora 30 minutos</time>
+        <ingredients>
+            <ingredient>1 kg de calabacines pequeños</ingredient>
+            <ingredient>1 vaso de arroz (grano redondo)</ingredient>
+            <ingredient>1/4 kg de carne picada</ingredient>
+            <ingredient>1/4 kg de tomate</ingredient>
+            <ingredient>2 cucharadas de aceite</ingredient>
+            <ingredient>2 manojos de perejil</ingredient>
+            <ingredient>Zumo de 1 limón</ingredient>
+            <ingredient>Sal, pimienta y especias</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Lava, pela y vacía los calabacines. Déjalos en agua con sal.</step>
+            <step>Ralla la cebolla y mezcla con sal, pimienta, especias y zumo de limón.</step>
+            <step>Lava el arroz y pica el perejil. Corta el tomate en trocitos pequeños.</step>
+            <step>Mezcla los ingredientes anteriores con la carne picada y el aceite. Rellena los calabacines con esta mezcla.</step>
+            <step>Coloca una capa fina de la mezcla sobrante en el fondo de una olla y pon los calabacines rellenos encima. Cubre con 2 vasos de agua.</step>
+            <step>Hierve a fuego alto, luego baja el fuego y cocina a fuego lento hasta que los calabacines estén tiernos.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para una presentación elegante, sirve los calabacines con una ramita de perejil fresco encima.</tips>
+    </recipe>
+
+     <recipe id="21">
+        <name>Endibias Braseadas</name>
+        <image>endibias-braseadas.jpg</image>
+        <time>10-15 minutos</time>
+        <ingredients>
+            <ingredient>4 endibias grandes</ingredient>
+            <ingredient>30 g de mantequilla sin sal</ingredient>
+            <ingredient>½ limón</ingredient>
+            <ingredient>2 cucharaditas de azúcar</ingredient>
+            <ingredient>Sal y pimienta</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Si las endibias están dañadas, corte las puntas y retire las hojas externas feas. Parta las endibias por la mitad a lo largo y elimine el troncho duro.</step>
+            <step>Derrita la mantequilla en una sartén grande. Coloque las endibias boca arriba y fríalas durante 2 minutos hasta dorarlas.</step>
+            <step>Dé la vuelta a las endibias, exprima un poco de zumo de limón encima y espolvoree con azúcar, sal y pimienta.</step>
+            <step>Fríalas de 3 a 5 minutos más, hasta que estén tiernas y doradas por ambos lados.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para un toque más sabroso, puede añadir un poco de tomillo fresco mientras fríe las endibias.</tips>
+    </recipe>
+
+    <recipe id="22">
+        <name>Lasaña de Calabacín</name>
+        <image>lasagna-calabacin.jpg</image>
+        <time>20 minutos de preparación, 20 minutos de cocción</time>
+        <ingredients>
+            <ingredient>2 calabacines grandes</ingredient>
+            <ingredient>6-8 zanahorias medianas</ingredient>
+            <ingredient>6 lonchas de pechuga de pavo</ingredient>
+            <ingredient>Queso ricotta</ingredient>
+            <ingredient>Aceite</ingredient>
+            <ingredient>1 huevo</ingredient>
+            <ingredient>Leche evaporada (300 g)</ingredient>
+            <ingredient>Queso para gratinar</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Lave los calabacines, pele las zanahorias y córtelas en tiras finas con un pelapatatas.</step>
+            <step>Haga rodajas finas de calabacín. Use una mandolina manual para un grosor uniforme.</step>
+            <step>Unte una fuente de horno con un poco de aceite y coloque la mitad de las rodajas de calabacín como base.</step>
+            <step>Coloque las tiras de zanahoria encima, luego las lonchas de pavo, y finalmente el queso ricotta.</step>
+            <step>Agregue la otra mitad del calabacín como capa superior, cubriendo toda la superficie.</step>
+            <step>Bata el huevo, mézclelo con la leche evaporada, y vierta esta mezcla sobre las capas.</step>
+            <step>Ralle queso para gratinar y espolvoree por encima.</step>
+            <step>Hornee a 180ºC durante 15-20 minutos y gratine 5 minutos más según el horno.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Pruebe con mozzarella rallada para un gratinado más cremoso.</tips>
+    </recipe>
+
+    <recipe id="23">
+        <name>Tomates Gratinados</name>
+        <image>tomates-gratinados.jpg</image>
+        <time>10 minutos</time>
+        <ingredients>
+            <ingredient>6 tomates</ingredient>
+            <ingredient>40 g de pan rallado</ingredient>
+            <ingredient>40 g de mantequilla</ingredient>
+            <ingredient>1 diente de ajo</ingredient>
+            <ingredient>Perejil</ingredient>
+            <ingredient>Sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Lave los tomates y cuézalos en el microondas durante 30 segundos. Retire, córtelos por la mitad y elimine las semillas.</step>
+            <step>Triture finamente el ajo y dos cucharadas de perejil. Mézclelos con el pan rallado y la mantequilla ablandada.</step>
+            <step>Salar los tomates y colóquelos en una fuente apta para microondas, ligeramente untada con mantequilla.</step>
+            <step>Rellene los tomates con la mezcla y cocine en el microondas durante 5 minutos.</step>
+            <step>Sirva los tomates gratinados calientes o fríos, según su preferencia.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Añada un poco de queso parmesano rallado a la mezcla para un gratinado más sabroso.</tips>
+    </recipe>
+
+
+
+
+
+
+
+
+
+    <recipe id="30">
         <name>Chicken Curry</name>
         <ingredients>
             <ingredient>Chicken</ingredient>
@@ -153,7 +508,7 @@
         </ingredients>
         <instructions>Sauté onion and garlic. Add chicken and curry powder. Pour in coconut milk and simmer.</instructions>
     </recipe>
-    <recipe id="16">
+    <recipe id="29">
         <name>Vegetable Stir Fry</name>
         <ingredients>
             <ingredient>Broccoli</ingredient>
@@ -164,7 +519,7 @@
         </ingredients>
         <instructions>Stir fry vegetables in hot oil with garlic. Add soy sauce and serve hot.</instructions>
     </recipe>
-    <recipe id="17">
+    <recipe id="28">
         <name>Beef Tacos</name>
         <ingredients>
             <ingredient>Ground Beef</ingredient>
@@ -175,7 +530,7 @@
         </ingredients>
         <instructions>Cook ground beef. Fill taco shells with beef, cheese, lettuce, and salsa.</instructions>
     </recipe>
-    <recipe id="18">
+    <recipe id="27">
         <name>Margherita Pizza</name>
         <ingredients>
             <ingredient>Pizza Dough</ingredient>
@@ -185,7 +540,7 @@
         </ingredients>
         <instructions>Spread tomato sauce on dough. Add mozzarella and basil. Bake until golden.</instructions>
     </recipe>
-    <recipe id="19">
+    <recipe id="26">
         <name>Pancakes</name>
         <ingredients>
             <ingredient>Flour</ingredient>
@@ -196,7 +551,7 @@
         </ingredients>
         <instructions>Mix all ingredients. Cook on a hot pan until golden on both sides.</instructions>
     </recipe>
-    <recipe id="20">
+    <recipe id="25">
         <name>Caesar Salad</name>
         <ingredients>
             <ingredient>Romaine Lettuce</ingredient>
@@ -206,7 +561,7 @@
         </ingredients>
         <instructions>Toss lettuce, croutons, and dressing. Top with Parmesan cheese.</instructions>
     </recipe>
-    <recipe id="21">
+    <recipe id="24">
         <name>Chocolate Brownies</name>
         <ingredients>
             <ingredient>Chocolate</ingredient>
