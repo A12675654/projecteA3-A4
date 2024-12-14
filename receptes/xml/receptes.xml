@@ -519,7 +519,7 @@
         <tips>El sabor a almendras se intensifica si deja reposar la masa unos minutos antes de hornear.</tips>
     </recipe>
 
-    <!-- Recipe 2: Arroz con Leche -->
+    <!-- Recipe 32: Arroz con Leche -->
     <recipe id="32">
         <name>Arroz con Leche</name>
         <image>arroz-con-leche.jpg</image>
@@ -545,7 +545,7 @@
         <tips>Para una textura más cremosa, utilice leche entera y revuelva constantemente al agregarla.</tips>
     </recipe>
 
-    <!-- Recipe 3: Arroz a la Ampurdanesa -->
+    <!-- Recipe 33: Arroz a la Ampurdanesa -->
     <recipe id="33">
         <name>Arroz a la Ampurdanesa</name>
         <image>arroz-ampurdanesa.jpg</image>
@@ -580,7 +580,7 @@
         <tips>Acompañe con un vino tinto de la región para realzar los sabores tradicionales.</tips>
     </recipe>
 
-    <!-- Recipe 4: Callos a la Madrileña -->
+    <!-- Recipe 34: Callos a la Madrileña -->
     <recipe id="34">
         <name>Callos a la Madrileña</name>
         <image>callos-madrilena.jpg</image>
