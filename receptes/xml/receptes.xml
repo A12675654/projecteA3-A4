@@ -496,6 +496,128 @@
 
 
 
+    <!-- Recipe 31: Amaretti -->
+    <recipe id="31">
+        <name>Amaretti</name>
+        <image>amaretti.jpg</image>
+        <time>40 minutos</time>
+        <ingredients>
+            <ingredient>275 g de harina de almendras</ingredient>
+            <ingredient>5 huevos L (temperatura ambiente)</ingredient>
+            <ingredient>350 g de azúcar glas</ingredient>
+            <ingredient>1/2 cucharadita de esencia de almendras amargas</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Precaliente el horno a 180°C con calor arriba y abajo. Prepare una bandeja con papel de hornear.</step>
+            <step>Separe 4 cucharadas de azúcar glas para montar las claras. Mezcle el resto con la harina de almendras y la esencia de almendras en un bol.</step>
+            <step>Separe las claras de las yemas. Monte las claras a punto de nieve, añadiendo poco a poco el azúcar reservado hasta obtener un merengue firme y brillante.</step>
+            <step>Incorpore el merengue, en pequeñas cantidades, a la mezcla de harina de almendras hasta obtener una masa compacta y pegajosa.</step>
+            <step>Con dos cucharas, forme bolitas de masa y colóquelas en la bandeja. Aplánelas ligeramente.</step>
+            <step>Hornee durante 20 minutos o hasta que estén doradas. Retire y deje enfriar sobre una rejilla.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>El sabor a almendras se intensifica si deja reposar la masa unos minutos antes de hornear.</tips>
+    </recipe>
+
+    <!-- Recipe 2: Arroz con Leche -->
+    <recipe id="32">
+        <name>Arroz con Leche</name>
+        <image>arroz-con-leche.jpg</image>
+        <time>30 minutos</time>
+        <ingredients>
+            <ingredient>1 taza de arroz</ingredient>
+            <ingredient>3 tazas de agua</ingredient>
+            <ingredient>1 rama de canela</ingredient>
+            <ingredient>1 pizca de sal</ingredient>
+            <ingredient>4 tazas de leche</ingredient>
+            <ingredient>1 1/2 tazas de azúcar</ingredient>
+            <ingredient>1/3 de taza de uvas pasas</ingredient>
+            <ingredient>1 cucharadita de vainilla</ingredient>
+            <ingredient>1 pizca de canela en polvo</ingredient>
+        </ingredients>
+        <instructions>
+            <step>En una cacerola, combine el arroz, el agua, la rama de canela y la sal. Caliente hasta que hierva, luego baje el fuego y tape hasta que el agua se absorba.</step>
+            <step>Agregue la leche y el azúcar. Suba el fuego y revuelva hasta que espese.</step>
+            <step>Incorpore la vainilla y cocine por 2 minutos más.</step>
+            <step>Retire del fuego, deje enfriar y sirva con pasas y una pizca de canela en polvo.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Para una textura más cremosa, utilice leche entera y revuelva constantemente al agregarla.</tips>
+    </recipe>
+
+    <!-- Recipe 3: Arroz a la Ampurdanesa -->
+    <recipe id="33">
+        <name>Arroz a la Ampurdanesa</name>
+        <image>arroz-ampurdanesa.jpg</image>
+        <time>1 hora</time>
+        <ingredients>
+            <ingredient>1/2 kilo de arroz</ingredient>
+            <ingredient>1/2 kilo de conejo</ingredient>
+            <ingredient>1 kilo y 1/2 de pollo</ingredient>
+            <ingredient>1/2 kilo de butifarra catalana</ingredient>
+            <ingredient>1/4 de litro de aceite de oliva</ingredient>
+            <ingredient>125 gramos de manteca de cerdo</ingredient>
+            <ingredient>1/4 de kilo de setas rovellons</ingredient>
+            <ingredient>1/4 de kilo de tomates maduros</ingredient>
+            <ingredient>2 cebollas medianas</ingredient>
+            <ingredient>4 dientes de ajo</ingredient>
+            <ingredient>50 gramos de almendras tostadas</ingredient>
+            <ingredient>Azafrán</ingredient>
+            <ingredient>Sal</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Para el arroz a la ampurdanesa, comience limpiando y cortando el conejo y el pollo en trozos pequeños.</step>
+            <step>Limpie las setas bajo agua corriente, eliminando la tierra, séquelas con un paño y trocéelas.</step>
+            <step>En una paellera, caliente el aceite y la manteca de cerdo. Añada los trozos de pollo y conejo, dorándolos bien.</step>
+            <step>Agregue el ajo picado y los tomates pelados y triturados. Cocine a fuego lento durante 15 minutos, removiendo ocasionalmente, y añada sal al gusto.</step>
+            <step>Hornee la butifarra a 150 °C durante 10 minutos, córtela en rodajas y añádala a la paella.</step>
+            <step>Eche el arroz, remueva bien y sofríalo durante 2-3 minutos.</step>
+            <step>Prepare una picada en un mortero con las almendras, el perejil y el azafrán. Añádala a la paella y mezcle bien.</step>
+            <step>Agregue las setas y doble cantidad de agua que de arroz. Deje hervir a fuego fuerte durante 10 minutos.</step>
+            <step>Transfiera la paellera al horno y hornee hasta que el arroz esté seco y suelto, unos 10 minutos.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Acompañe con un vino tinto de la región para realzar los sabores tradicionales.</tips>
+    </recipe>
+
+    <!-- Recipe 4: Callos a la Madrileña -->
+    <recipe id="34">
+        <name>Callos a la Madrileña</name>
+        <image>callos-madrilena.jpg</image>
+        <time>2 horas</time>
+        <ingredients>
+            <ingredient>1 kg de tripa</ingredient>
+            <ingredient>500 g de morro</ingredient>
+            <ingredient>1 manita de cordero partida</ingredient>
+            <ingredient>1 cebolla</ingredient>
+            <ingredient>3 dientes de ajo</ingredient>
+            <ingredient>2 chorizos</ingredient>
+            <ingredient>2 morcillas</ingredient>
+            <ingredient>1/4 kg de jamón serrano</ingredient>
+            <ingredient>4 tomates maduros</ingredient>
+            <ingredient>1 hoja de laurel</ingredient>
+            <ingredient>1 cucharón de aceite de oliva</ingredient>
+            <ingredient>1 guindilla</ingredient>
+            <ingredient>2 cucharadas de harina</ingredient>
+            <ingredient>1 pizca de pimienta blanca</ingredient>
+            <ingredient>1 cucharadita de pimentón dulce</ingredient>
+            <ingredient>1 kg de garbanzos cocidos</ingredient>
+        </ingredients>
+        <instructions>
+            <step>Limpie los callos, morro y manita de cordero, hiérvalos en agua con vinagre para desinfectar.</step>
+            <step>Prepare un caldo con hueso de jamón, puerros, zanahorias, tomates, laurel, clavos, pimienta negra y sal. Cocine durante 30 minutos.</step>
+            <step>Saque los callos del caldo y córtelos en trozos pequeños. Reserve el caldo.</step>
+            <step>En una cazuela, sofría la cebolla cortada en juliana, los ajos en láminas, y la guindilla con aceite de oliva. Añada el pimentón y el tomate rallado.</step>
+            <step>Incorpore los callos, morro y manita al sofrito junto con los chorizos y morcillas cortados en rodajas. Cocine a fuego lento durante 1 hora.</step>
+            <step>Machaque las verduras del caldo y añádalas al guiso junto con un poco del caldo reservado. Cocine hasta que los callos estén tiernos.</step>
+            <step>Agregue los garbanzos cocidos en los últimos 20 minutos de cocción. Rectifique la sal si es necesario.</step>
+        </instructions>
+        <author>Recetas Caseras</author>
+        <tips>Sirva en cazuelas de barro para mantener la tradición y conservar el calor del plato.</tips>
+    </recipe>
+
+
+
 
     <recipe id="30">
         <name>Chicken Curry</name>
