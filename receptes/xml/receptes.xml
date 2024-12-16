@@ -281,7 +281,7 @@
         <tips>Para un toque más dorado, gratina los puerros los últimos minutos de horneado.</tips>
     </recipe>
 
-    <!-- Recipe 6: Garbanzos con Chorizo -->
+    <!-- Recipe 15: Garbanzos con Chorizo -->
     <recipe id="15">
         <name>Garbanzos con Chorizo</name>
         <image>garbanzos-chorizo.jpg</image>
@@ -311,7 +311,7 @@
 
     <recipe id="17">
         <name>Croquetas de Pollo y Jamón</name>
-        <image>croquetas-pollo-jamon.jpg</image>
+        <image>croquetas-pollo.jpg</image>
         <time>3 horas (incluyendo refrigeración)</time>
         <ingredients>
             <ingredient>4 cucharadas de aceite de oliva</ingredient>
@@ -343,7 +343,7 @@
     
     <recipe id="18">
         <name>Entrante de Alcachofas</name>
-        <image>alcachofas-entrante.jpg</image>
+        <image>entrante-alcachofas.jpg</image>
         <time>30 minutos</time>
         <ingredients>
             <ingredient>4 alcachofas</ingredient>
@@ -369,7 +369,7 @@
 
     <recipe id="19">
         <name>Mejillones al Vapor</name>
-        <image>mejillones-al-vapor.jpg</image>
+        <image>mejillones.jpg</image>
         <time>15 minutos</time>
         <ingredients>
             <ingredient>500 gramos de mejillones de roca</ingredient>
@@ -390,10 +390,10 @@
         <tips>Si prefieres un sabor más intenso, añade una pizca de ajo picado antes de cocinar.</tips>
     </recipe>
 
-    <!-- Recipe 4: Calabacines Rellenos de Arroz y Carne Picada -->
+    <!-- Recipe 20: Calabacines Rellenos de Arroz y Carne Picada -->
     <recipe id="20">
         <name>Calabacines Rellenos de Arroz y Carne Picada</name>
-        <image>calabacines-rellenos.jpg</image>
+        <image>calabacines-rellenos.webp</image>
         <time>1 hora 30 minutos</time>
         <ingredients>
             <ingredient>1 kg de calabacines pequeños</ingredient>
@@ -419,7 +419,7 @@
 
      <recipe id="21">
         <name>Endibias Braseadas</name>
-        <image>endibias-braseadas.jpg</image>
+        <image>endivias.jpg</image>
         <time>10-15 minutos</time>
         <ingredients>
             <ingredient>4 endibias grandes</ingredient>
@@ -440,7 +440,7 @@
 
     <recipe id="22">
         <name>Lasaña de Calabacín</name>
-        <image>lasagna-calabacin.jpg</image>
+        <image>lasaña-calabacín.jpg</image>
         <time>20 minutos de preparación, 20 minutos de cocción</time>
         <ingredients>
             <ingredient>2 calabacines grandes</ingredient>
@@ -489,10 +489,10 @@
         <tips>Añada un poco de queso parmesano rallado a la mezcla para un gratinado más sabroso.</tips>
     </recipe>
 
-    <!-- Recipe 1: Gula al Ajillo sin Gluten -->
+    <!-- Recipe 24: Gula al Ajillo sin Gluten -->
     <recipe id="24">
         <name>Gula al Ajillo sin Gluten</name>
-        <image>gula-ajillo.jpg</image>
+        <image>gula.jpg</image>
         <time>15 minutos</time>
         <ingredients>
             <ingredient>1 paquete de gula sin gluten</ingredient>
@@ -515,7 +515,7 @@
     <!-- Recipe 25: Ensalada de Fresas, Espinacas y Salsa de Yogur -->
     <recipe id="25">
         <name>Ensalada de Fresas, Espinacas y Salsa de Yogur</name>
-        <image>ensalada-fresas-espinacas.jpg</image>
+        <image>ensalada-fresas-espinacas.webp</image>
         <time>10 minutos</time>
         <ingredients>
             <ingredient>Brotes de espinacas</ingredient>
@@ -542,7 +542,7 @@
     <!-- Recipe 26: Coca con Miel -->
     <recipe id="26">
         <name>Coca con Miel</name>
-        <image>coca-miel.jpg</image>
+        <image>coca.webp</image>
         <time>45 minutos</time>
         <ingredients>
             <ingredient>4 huevos</ingredient>
@@ -551,12 +551,10 @@
             <ingredient>1/2 sobre de levadura (10 g)</ingredient>
             <ingredient>Mantequilla</ingredient>
             <ingredient>Hojas de menta</ingredient>
-            <almibar>
-                <ingredient>150 ml de miel</ingredient>
-                <ingredient>100 ml de ron</ingredient>
-                <ingredient>150 ml de agua</ingredient>
-                <ingredient>250 g de azúcar</ingredient>
-            </almibar>
+            <ingredient>150 ml de miel</ingredient>
+            <ingredient>100 ml de ron</ingredient>
+            <ingredient>150 ml de agua</ingredient>
+            <ingredient>250 g de azúcar</ingredient>
         </ingredients>
         <instructions>
             <step>Preparar el almíbar mezclando los ingredientes y cocinando durante 15 minutos a temperatura varoma. Reservar y enfriar.</step>
@@ -572,7 +570,7 @@
     <!-- Recipe 27: Dados de Pastel Fresco con Yogur -->
     <recipe id="27">
         <name>Dados de Pastel Fresco con Yogur</name>
-        <image>dados-pastel-fresco.jpg</image>
+        <image>dados-pastel.jpg</image>
         <time>2 horas</time>
         <ingredients>
             <ingredient>24 cerezas</ingredient>
@@ -816,7 +814,7 @@
     <!-- Recipe 37: Aperitivo de Patata, Queso, Sobrasada y Miel -->
     <recipe id="37">
         <name>Aperitivo de Patata, Queso, Sobrasada y Miel</name>
-        <image>aperitivo-patata-queso-miel.jpg</image>
+        <image>aperitivo-patata.jpg</image>
         <time>45 minutos</time>
         <ingredients>
             <ingredient>4 patatas medianas</ingredient>

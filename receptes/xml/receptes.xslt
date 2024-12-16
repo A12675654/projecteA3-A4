@@ -16,7 +16,7 @@
                 <a href="../aboutMe.html">Sobre mí</a>
                 <a href="../receptes.html">Recetas</a>
                 <a href="../formulari.html">Contacto</a>
-                <a href="../otrasCosas/others.css">Otras Cosas</a>
+                <a href="../otrasCosas/others.html">Otras Cosas</a>
             </div>
 
             <div class="container">

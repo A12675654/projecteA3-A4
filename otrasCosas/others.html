@@ -5,8 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Delicias Kitchen</title>
     <link rel="stylesheet" href="others.css">
+    <style>
+        .other-things-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            justify-items: center;
+            padding: 20px;
+        }
+        .other-item {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .section-title {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+    </style>
 </head>
 <body>
+    <!-- Header -->
     <header class="navbar">
         <div class="logo">
             <img src="../imatges/Logo-Delicias.png" alt="Foto de perfil" width="200" height="75">
@@ -23,21 +45,56 @@
         </nav>
     </header>
     <br>
+
+    <!-- Main Section -->
     <div class="other-things">
         <h2 class="section-title">Otras cosas</h2>
         <div class="other-things-grid">
-          <div class="other-item">
-            <h3>Consejos y Trucos</h3>
-            <p>Descubre cómo cocinar como un profesional con estos trucos infalibles.</p>
-          </div>
-          <div class="other-item">
-            <h3>Maridajes Perfectos</h3>
-            <p>Encuentra las mejores bebidas para acompañar tus platos favoritos.</p>
-          </div>
-          <div class="other-item">
-            <h3>Recetas Internacionales</h3>
-            <p>Explora sabores de todo el mundo con estas recetas únicas.</p>
-          </div>
+            <!-- Card 1 -->
+            <div class="other-item">
+                <h3>Consejos y Trucos</h3>
+                <p>Descubre cómo cocinar como un profesional con estos trucos infalibles.</p>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="other-item">
+                <h3>Maridajes Perfectos</h3>
+                <p>Encuentra las mejores bebidas para acompañar tus platos favoritos.</p>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="other-item">
+                <h3>Recetas Internacionales</h3>
+                <p>Explora sabores de todo el mundo con estas recetas únicas.</p>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="other-item">
+                <h3>Postres Creativos</h3>
+                <p>Inspírate con deliciosas recetas de postres para endulzar cualquier ocasión.</p>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="other-item">
+                <h3>Comida Saludable</h3>
+                <p>Descubre platos saludables y nutritivos para mantener un estilo de vida equilibrado.</p>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="other-item">
+                <h3>Platos de Temporada</h3>
+                <p>Aprovecha los ingredientes frescos de cada temporada con estas recetas especiales.</p>
+            </div>
         </div>
+    </div>
+    <footer>
+      <div class="social-links">
+          <a href="#">Facebook</a>
+          <a href="#">Twitter</a>
+          <a href="#">Instagram</a>
+          <a href="#">Pinterest</a>
+          <a href="#">Email</a>
+          <a href="#">RSS</a>
       </div>
+  </footer>
 </body>
