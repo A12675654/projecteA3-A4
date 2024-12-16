@@ -598,7 +598,7 @@
      <!-- Recipe 28: Huevos Benedict con Aguacate -->
     <recipe id="28">
         <name>Huevos Benedict con Aguacate</name>
-        <image>huevos-benedict-aguacate.jpg</image>
+        <image>huevos-benedict.jpg</image>
         <time>20 minutos</time>
         <ingredients>
             <ingredient>2 aguacates Hass</ingredient>
@@ -619,7 +619,7 @@
     <!-- Recipe 29: Pannacotta de Fresas -->
     <recipe id="29">
         <name>Pannacotta de Fresas</name>
-        <image>pannacotta-fresas.jpg</image>
+        <image>pannacotta-fresas.png</image>
         <time>4-5 horas de enfriado, 20 minutos de preparación</time>
         <ingredients>
             <ingredient>500ml de nata</ingredient>
@@ -728,7 +728,7 @@
     <!-- Recipe 34: Callos a la Madrileña -->
     <recipe id="34">
         <name>Callos a la Madrileña</name>
-        <image>callos-madrilena.jpg</image>
+        <image>callos-madrilena.webp</image>
         <time>2 horas</time>
         <ingredients>
             <ingredient>1 kg de tripa</ingredient>
@@ -764,7 +764,7 @@
      <!-- Recipe 35: Ternera con Setas y Gambas -->
     <recipe id="35">
         <name>Ternera con Setas y Gambas</name>
-        <image>ternera-setas-gambas.jpg</image>
+        <image>ternera-setas.jpg</image>
         <time>1 hora 30 minutos</time>
         <ingredients>
             <ingredient>750 gramos de redondo de ternera en una pieza</ingredient>
@@ -793,7 +793,7 @@
     <!-- Recipe 36: Sorbete de Fresas al Cava -->
     <recipe id="36">
         <name>Sorbete de Fresas al Cava</name>
-        <image>sorbete-fresas-cava.jpg</image>
+        <image>sorbete-fresas.jpg</image>
         <time>4 horas (incluyendo congelación)</time>
         <ingredients>
             <ingredient>1 benjamín de cava</ingredient>
